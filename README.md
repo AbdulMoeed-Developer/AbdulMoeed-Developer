@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @AbdulMoeed
+- 👀 I’m interested in web development
+- 🌱 I’m currently taking a course on udemy on web development
